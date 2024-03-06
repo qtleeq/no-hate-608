@@ -33,18 +33,22 @@ p {
 }
 
 table {
-  background-color: orange;
-  border-collapse: collapse;
-  margin: 50px;
-  font-size: 25px;
-  min-width: 400px;
-  /* background-color: orange; */
-  color: black;
-  text-align: left;
-  font-weight: bold;
-  padding: 25px;
-  border-bottom: 1px solid orange;
-  border-radius: 5px;
-  overflow: hidden;
-  box-shadow: 20px black;
+    background-color: orange;
+    border-collapse: collapse;
+    margin: 50px;
+    font-size: 15px;
+    min-width: 400px;
+    /* background-color: orange; */
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    padding: 25px;
+    border-bottom: 1px solid orange;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 20px black;
+}
+
+th {
+    background-color: gray;
 }
