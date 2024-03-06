@@ -9,7 +9,7 @@ p {
 }
 #div-contact {
   background-image: url(/images/bxtch-please.png);
-  background-position: center;
+  background-position: right;
   background-size: contain;
   
 }
@@ -37,3 +37,8 @@ table {
   overflow: hidden;
   box-shadow: 20px black;
 }
+#header-contact {
+    color: white;
+    background-image: url();
+}
+
