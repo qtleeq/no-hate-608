@@ -5,5 +5,10 @@ p {
   background-image: url(/images/NoHate.png);
   background-position: center;
   background-size: contain;
+}
+#div-contact {
+  background-image: url();
+  background-position: center;
+  background-size: contain;
   
 }
