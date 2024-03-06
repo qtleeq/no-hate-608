@@ -1,26 +1,39 @@
 
-
+p {
+  color: red;
+}
+#contact-nav {
+  background-image: url(/images/NoHate.png);
+  background-position: center;
+  background-size: contain;
+}
+#div-contact {
+  background-image: url(/images/bxtch-please.png);
+  background-position: center;
+  background-size: contain;
+  
+}
 .services-table {
-    border-collapse: collapse;
-    margin: 50px;
-    font-size: 25px;
-    min-width: 400px;
-    /* background-color: orange; */
+  border-collapse: collapse;
+  margin: 50px;
+  font-size: 25px;
+  min-width: 400px;
+  /* background-color: orange; */
 }
 
 table {
-    background-color: orange;
-    border-collapse: collapse;
-    margin: 50px;
-    font-size: 25px;
-    min-width: 400px;
-    /* background-color: orange; */
-    color: black;
-    text-align: left;
-    font-weight: bold;
-    padding: 25px;
-    border-bottom: 1px solid orange;
-    border-radius: 5px;
-    overflow: hidden;
-    box-shadow: 20px black;
+  background-color: orange;
+  border-collapse: collapse;
+  margin: 50px;
+  font-size: 25px;
+  min-width: 400px;
+  /* background-color: orange; */
+  color: black;
+  text-align: left;
+  font-weight: bold;
+  padding: 25px;
+  border-bottom: 1px solid orange;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 20px black;
 }
