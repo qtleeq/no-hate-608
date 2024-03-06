@@ -10,7 +10,7 @@ p {
 #div-contact {
   background-image: url(/images/bxtch-please.png);
   background-position: right;
-  background-size: contain;
+  background-size: cover;
   
 }
 .services-table {
