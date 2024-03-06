@@ -1,6 +1,9 @@
 p {
-    color:red;
+  color: red;
 }
 #contact-nav {
-    background-color: aqua;
+  background-image: url(/images/NoHate.png);
+  background-position: center;
+  background-size: contain;
+  
 }
