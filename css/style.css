@@ -1,3 +1,15 @@
+nav {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  margin: 10px;
+}
 
 p {
   color: red;
@@ -11,7 +23,6 @@ p {
   background-image: url(/images/bxtch-please.png);
   background-position: center;
   background-size: contain;
-  
 }
 .services-table {
   border-collapse: collapse;
