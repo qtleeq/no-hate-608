@@ -1,11 +1,35 @@
+nav {
+  text-align: center;
+}
 
+h1 {
+  text-align: center;
+}
 
+li {
+  display: inline-block;
+  margin: 10px;
+}
+
+p {
+  color: red;
+}
+#contact-nav {
+  background-image: url(/images/NoHate.png);
+  background-position: center;
+  background-size: contain;
+}
+#div-contact {
+  background-image: url(/images/bxtch-please.png);
+  background-position: center;
+  background-size: contain;
+}
 .services-table {
-    border-collapse: collapse;
-    margin: 50px;
-    font-size: 25px;
-    min-width: 400px;
-    /* background-color: orange; */
+  border-collapse: collapse;
+  margin: 50px;
+  font-size: 25px;
+  min-width: 400px;
+  /* background-color: orange; */
 }
 
 table {
