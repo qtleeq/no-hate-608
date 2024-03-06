@@ -1,4 +1,3 @@
-
 p {
   color: red;
 }
@@ -11,7 +10,6 @@ p {
   background-image: url(/images/bxtch-please.png);
   background-position: right;
   background-size: cover;
-  
 }
 .services-table {
   border-collapse: collapse;
@@ -38,7 +36,13 @@ table {
   box-shadow: 20px black;
 }
 #header-contact {
-    color: white;
-    background-image: url();
+  color: white;
+  background-image: url(/images/concert.jpg);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
 }
+#h1contact {
+text-align: center;
 
+}
