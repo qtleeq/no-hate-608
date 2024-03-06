@@ -73,4 +73,6 @@ th {
 #submit-con:hover {
     color: blue;
 }
-label
+label{
+    border: 3px blue solid;
+}
