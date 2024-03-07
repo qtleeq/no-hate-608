@@ -72,3 +72,12 @@ th {
 #submit-con:hover {
     color: blue;
 }
+
+.home {
+  height: 100vh;
+  background-image: url(/images/madison-sunset.jpg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* background-color: red; */
+}
