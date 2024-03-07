@@ -77,3 +77,12 @@ th {
 label{
     border: 3px blue solid;
 }
+
+.home {
+  height: 100vh;
+  background-image: url(/images/madison-sunset.jpg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* background-color: red; */
+}
