@@ -60,7 +60,7 @@ th {
 #header-contact {
   color: white;
   background-image: url(/images/concert.jpg);
-  height: 100vh;
+  height: 500px;
   background-position: center;
   background-size: cover;
 }
