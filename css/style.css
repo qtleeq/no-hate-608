@@ -25,6 +25,7 @@ p {
   background-image: url(/images/bxtch-please.png);
   background-position: center;
   background-size: contain;
+  border: 3px;
   
 }
 .services-table {
