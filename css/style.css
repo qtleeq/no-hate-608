@@ -1,33 +1,30 @@
 nav {
-    text-align: center;
-  }
-  
-  h1 {
-    text-align: center;
-  }
-  
-  li {
-    display: inline-block;
-    margin: 10px;
-  }
-  
-
-
-p {
-  color: red;
+  text-align: center;
 }
+
+h1 {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  margin: 10px;
+}
+
 #contact-nav {
   background-image: url(/images/NoHate.png);
   background-position: center;
   background-size: contain;
 }
+
 #div-contact {
- border:15px orange solid;
+  border: 15px orange solid;
   background-position: center;
   background-size: cover;
   background-image: url("/images/bxtch-please.png");
   border-style: solid solid double solid;
 }
+
 .services-table {
   border-collapse: collapse;
   margin: 50px;
@@ -37,25 +34,26 @@ p {
 }
 
 table {
-    background-color: orange;
-    border-collapse: collapse;
-    margin: 50px;
-    font-size: 15px;
-    min-width: 400px;
-    /* background-color: orange; */
-    color: black;
-    text-align: left;
-    font-weight: bold;
-    padding: 25px;
-    border-bottom: 1px solid orange;
-    border-radius: 5px;
-    overflow: hidden;
-    box-shadow: 20px black;
+  background-color: orange;
+  border-collapse: collapse;
+  margin: 50px;
+  font-size: 15px;
+  min-width: 400px;
+  /* background-color: orange; */
+  color: black;
+  text-align: left;
+  font-weight: bold;
+  padding: 25px;
+  border-bottom: 1px solid orange;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 20px black;
 }
 
 th {
-    background-color: gray;
+  background-color: gray;
 }
+
 #header-contact {
   color: white;
   background-image: url(/images/concert.jpg);
@@ -63,19 +61,21 @@ th {
   background-position: center;
   background-size: cover;
 }
+
 #h1contact {
-    color: red;
-  }
+  color: red;
+}
 
 #form-con {
-    text-align: center;
-   
+  text-align: center;
 }
+
 #submit-con:hover {
-    color: blue;
+  color: blue;
 }
-label{
-    border: 3px blue solid;
+
+label {
+  border: 3px blue solid;
 }
 
 .home {
