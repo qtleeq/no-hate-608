@@ -22,11 +22,11 @@ p {
   background-size: contain;
 }
 #div-contact {
-  background-image: url(/images/bxtch-please.png);
+ border:15px orange solid;
   background-position: center;
-  background-size: contain;
-  border: 3px;
-  
+  background-size: cover;
+  background-image: url("/images/bxtch-please.png");
+  border-style: solid solid double solid;
 }
 .services-table {
   border-collapse: collapse;
