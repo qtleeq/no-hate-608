@@ -76,6 +76,19 @@ th {
 #submit-con:hover {
   color: blue;
 }
-label {
-  border: 3px blue solid;
+#fname {
+  border: 2px solid red;
+  border-radius: 4px;
+}
+#lname {
+  border: 2px solid red;
+  border-radius: 4px;
+}
+#organiztion {
+  border: 2px solid red;
+  border-radius: 4px;
+}
+#textarea {
+  border: 2px solid red;
+  border-radius: 4px;
 }
