@@ -71,6 +71,8 @@ th {
 
 #form-con {
   text-align: center;
+  width: 400px;
+  margin: auto;
 }
 
 #submit-con:hover {
@@ -78,19 +80,20 @@ th {
 }
 #fname {
   border: 2px solid red;
-  border-radius: 4px;
+  border-radius: 10px;
 }
 #lname {
   border: 2px solid red;
-  border-radius: 4px;
+  border-radius: 10px;
 }
 #organiztion {
   border: 2px solid red;
-  border-radius: 4px;
+  border-radius: 10px;
 }
 #textarea {
   border: 2px solid red;
-  border-radius: 4px;
+  border-radius: 20px;
+  width: 100%;
 }
 
 .services {
@@ -99,17 +102,19 @@ th {
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
-} 
+}
 .top {
   text-decoration: none;
   padding: 20px;
   color: orange;
   background-color: black;
   border-radius: 100px;
-
 }
 
 .top:hover {
   color: black;
   background-color: orange;
+}
+input {
+  width: 100%;
 }
