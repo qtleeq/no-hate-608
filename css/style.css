@@ -86,3 +86,11 @@ label {
   background-repeat: no-repeat;
   /* background-color: red; */
 }
+
+.services {
+  height: 100vh;
+  background-image: url(/images/yoga.jpg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
