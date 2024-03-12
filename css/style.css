@@ -115,11 +115,9 @@ th {
   color: black;
   background-color: orange;
 }
-<<<<<<< HEAD
 input {
   width: 100%;
 }
-=======
 
 .hours {
   height: 200vh;
@@ -131,20 +129,17 @@ input {
   background-image: -moz-linear-gradient(bxtch-please);
   box-shadow: 0cqb;
   background-repeat: round;
-
 }
 
 .top {
   text-shadow: 0cm;
   padding: 40px;
-color: orange;
-background-color: orange;
-border: 100px;
-
+  color: orange;
+  background-color: orange;
+  border: 100px;
 }
 
 .top:hover {
   color: orange;
   background-color: black;
 }
->>>>>>> main
