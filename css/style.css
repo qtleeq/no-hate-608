@@ -115,6 +115,36 @@ th {
   color: black;
   background-color: orange;
 }
+<<<<<<< HEAD
 input {
   width: 100%;
 }
+=======
+
+.hours {
+  height: 200vh;
+  background-image: url(/images/madison-sunset.jpg);
+  background-position: center;
+  backface-visibility: visible;
+  background-attachment: fixed;
+  backdrop-filter: calc(padding);
+  background-image: -moz-linear-gradient(bxtch-please);
+  box-shadow: 0cqb;
+  background-repeat: round;
+
+}
+
+.top {
+  text-shadow: 0cm;
+  padding: 40px;
+color: orange;
+background-color: orange;
+border: 100px;
+
+}
+
+.top:hover {
+  color: orange;
+  background-color: black;
+}
+>>>>>>> main
