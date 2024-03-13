@@ -11,6 +11,9 @@ li {
   margin: 10px;
 }
 
+p {
+  color: red;
+}
 #contact-nav {
   background-image: url(/images/NoHate.png);
   background-position: center;
@@ -23,6 +26,9 @@ li {
   background-size: cover;
   background-image: url("/images/bxtch-please.png");
   border-style: solid solid double solid;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .services-table {
@@ -57,7 +63,7 @@ th {
 #header-contact {
   color: white;
   background-image: url(/images/concert.jpg);
-  height: 100vh;
+  height: 500px;
   background-position: center;
   background-size: cover;
 }
@@ -68,23 +74,29 @@ th {
 
 #form-con {
   text-align: center;
+  width: 300px;
+  margin: auto;
 }
 
 #submit-con:hover {
   color: blue;
 }
-
-label {
-  border: 3px blue solid;
+#fname {
+  border: 2px solid red;
+  border-radius: 10px;
 }
-
-.home {
-  height: 100vh;
-  background-image: url(/images/madison-sunset.jpg);
-  background-position: center;
-  background-size: contain;
-  background-repeat: no-repeat;
-  /* background-color: red; */
+#lname {
+  border: 2px solid red;
+  border-radius: 10px;
+}
+#organiztion {
+  border: 2px solid red;
+  border-radius: 10px;
+}
+#textarea {
+  border: 2px solid red;
+  border-radius: 20px;
+  width: 100%;
 }
 
 .services {
@@ -93,19 +105,21 @@ label {
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
-} 
+}
 .top {
   text-decoration: none;
   padding: 20px;
   color: orange;
   background-color: black;
   border-radius: 100px;
-
 }
 
 .top:hover {
   color: black;
   background-color: orange;
+}
+input {
+  width: 100%;
 }
 
 .hours {
@@ -118,19 +132,28 @@ label {
   background-image: -moz-linear-gradient(bxtch-please);
   box-shadow: 0cqb;
   background-repeat: round;
-
 }
 
 .top {
   text-shadow: 0cm;
   padding: 40px;
-color: orange;
-background-color: orange;
-border: 100px;
-
+  color: orange;
+  background-color: orange;
+  border: 100px;
 }
 
 .top:hover {
   color: orange;
   background-color: black;
+}
+#h2-con {
+  text-align: center;
+  color: red;
+}
+#p-con {
+  text-align: center;
+}
+#sec-con {
+  background-color: rgb(241, 205, 174);
+  border: 5px dashed orangered;
 }
