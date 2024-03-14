@@ -37,6 +37,12 @@ p {
   font-size: 25px;
   min-width: 400px;
   /* background-color: orange; */
+  display: contents;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  margin-bottom: 50px;
 }
 
 table {
@@ -165,4 +171,20 @@ input {
   background-size: contain;
   background-repeat: no-repeat;
   /* background-color: red; */
+}
+
+.img-div > img {
+  width: 200px;
+  float:  left;
+  padding: 15px;
+  margin: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 10px;
+  border-color: orange gold;
+  box-sizing: border-box;
+  border-style: dashed;
+  outline: solid;
 }
