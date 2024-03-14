@@ -1,4 +1,3 @@
-
 nav {
   text-align: center;
 }
@@ -28,8 +27,8 @@ p {
   background-image: url("/images/bxtch-please.png");
   border-style: solid solid double solid;
   width: 400px;
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .services-table {
@@ -38,6 +37,12 @@ p {
   font-size: 25px;
   min-width: 400px;
   /* background-color: orange; */
+  display: contents;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  margin-bottom: 50px;
 }
 
 table {
@@ -153,4 +158,33 @@ input {
 }
 #p-con {
   text-align: center;
+}
+#sec-con {
+  background-color: rgb(241, 205, 174);
+  border: 5px dashed orangered;
+}
+
+.home {
+  height: 100vh;
+  background-image: url(/images/madison-sunset.jpg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* background-color: red; */
+}
+
+.img-div > img {
+  width: 200px;
+  float:  left;
+  padding: 15px;
+  margin: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 10px;
+  border-color: orange gold;
+  box-sizing: border-box;
+  border-style: dashed;
+  outline: solid;
 }
