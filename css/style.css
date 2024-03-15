@@ -130,7 +130,7 @@ input {
 
 .hours {
   height: 200vh;
-  background-image: url(/images/madison-sunset.jpg);
+  background-image: url();
   background-position: center;
   backface-visibility: visible;
   background-attachment: fixed;
