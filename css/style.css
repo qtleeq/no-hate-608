@@ -1,3 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  transition: 0.3s;
+  
+  text-shadow: 1px 1px 1px black;
+}
+
+a:hover {
+  font-size: larger;
+  color: black;
+}
+
 nav {
   text-align: center;
 }
@@ -143,7 +162,7 @@ input {
 .top {
   text-shadow: 0cm;
   padding: 40px;
-  color: orange;
+  color: black;
   background-color: orange;
   border: 100px;
 }
@@ -164,12 +183,14 @@ input {
   border: 5px dashed orangered;
 }
 
-.home {
+.index-header {
   height: 100vh;
   background-image: url(/images/madison-sunset.jpg);
   background-position: center;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
+  color: white;
+  text-shadow: 1px 1px 1px #333;
   /* background-color: red; */
 }
 
