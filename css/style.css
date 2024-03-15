@@ -200,6 +200,17 @@ input {
   /* background-color: red; */
 }
 
+.leadership-header {
+  height: 100vh;
+  background-image: url(/images/medschool.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: 1px 1px 1px #333;
+  /* background-color: red; */
+}
+
 .img-div > img {
   width: 200px;
   float:  left;
