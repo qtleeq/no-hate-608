@@ -89,6 +89,7 @@ table {
 
 th {
   background-color: gray;
+  
 }
 
 #header-contact {
@@ -155,7 +156,7 @@ input {
 
 .hours {
   height: 200vh;
-  background-image: url(/images/madison-sunset.jpg);
+  background-image: url(/images/madison.jpg);
   background-position: center;
   backface-visibility: visible;
   background-attachment: fixed;
@@ -214,4 +215,7 @@ input {
   box-sizing: border-box;
   border-style: dashed;
   outline: solid;
+}
+#about-link {
+
 }
