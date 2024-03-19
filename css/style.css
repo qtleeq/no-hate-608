@@ -217,3 +217,7 @@ input {
   border-style: dashed;
   outline: solid;
 }
+ 
+#hours-home-link {
+  width: 50px;
+}
