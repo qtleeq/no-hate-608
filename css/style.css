@@ -213,6 +213,11 @@ input {
   border-style: dashed;
   outline: solid;
 }
+
 #home-link {
+  width: 50px;
+}
+#leadership-home-link {
+
   width: 50px;
 }
