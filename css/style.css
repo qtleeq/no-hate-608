@@ -156,7 +156,7 @@ input {
 
 .hours {
   height: 200vh;
-  background-image: url();
+  background-image: url(/images/madison.jpg);
   background-position: center;
   backface-visibility: visible;
   background-attachment: fixed;
@@ -215,4 +215,7 @@ input {
   box-sizing: border-box;
   border-style: dashed;
   outline: solid;
+}
+#about-link {
+
 }
