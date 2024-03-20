@@ -193,7 +193,7 @@ input {
 
 .index-header {
   height: 100vh;
-  background-image: url("./images/madison-sunset.jpg");
+  background-image: url("../images/madison-sunset.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
