@@ -41,7 +41,7 @@ footer {
 
 
 #contact-nav {
-  background-image: url("../images/NoHate.png");
+  background-image: url("../../images/NoHate.png");
   background-position: center;
   background-size: contain;
 }
@@ -50,7 +50,7 @@ footer {
   border: 15px orange solid;
   background-position: center;
   background-size: cover;
-  background-image: url("../images/bxtch-please.png");
+  background-image: url("../../images/bxtch-please.png");
   border-style: solid solid double solid;
   width: 400px;
   margin-left: auto;
@@ -157,7 +157,7 @@ input {
 
 .hours {
   height: 200vh;
-  background-image: url("../images/madison.jpg");
+  background-image: url("../../images/madison.jpg");
   background-position: center;
   backface-visibility: visible;
   background-attachment: fixed;
@@ -193,7 +193,7 @@ input {
 
 .index-header {
   height: 100vh;
-  background-image: url("../images/madison-sunset.jpg");
+  background-image: url("../../images/madison-sunset.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -204,7 +204,7 @@ input {
 
 .leadership-header {
   height: 100vh;
-  background-image: url("../images/medschool.png");
+  background-image: url("../../images/medschool.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
