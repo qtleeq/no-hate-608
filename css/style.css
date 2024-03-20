@@ -214,10 +214,16 @@ input {
   outline: solid;
 }
 
+ 
+#hours-home-link {
+width: 50px;
+}
+
+
 #home-link {
   width: 50px;
 }
 #leadership-home-link {
-
   width: 50px;
 }
+
