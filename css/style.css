@@ -95,7 +95,7 @@ th {
 
 #header-contact {
   color: white;
-  background-image: url("../images/concert.jpg");
+  background-image: url("../../images/concert.jpg");
   height: 500px;
   background-position: center;
   background-size: cover;
@@ -134,7 +134,7 @@ th {
 
 .services {
   height: 100vh;
-  background-image: url("../images/yoga.jpg");
+  background-image: url("../../images/yoga.jpg");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
