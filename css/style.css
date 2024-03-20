@@ -40,11 +40,7 @@ footer {
 }
 
 
-#contact-nav {
-  background-image: url(/images/NoHate.png);
-  background-position: center;
-  background-size: contain;
-}
+
 
 #div-contact {
   border: 15px orange solid;
@@ -235,7 +231,10 @@ width: 50px;
 }
 
 
+#home-link {
+  width: 50px;
+}
 #leadership-home-link {
-width: 50px;
+  width: 50px;
 }
 
